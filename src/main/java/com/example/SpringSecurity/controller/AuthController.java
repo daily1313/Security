@@ -4,6 +4,7 @@ import com.example.SpringSecurity.dto.MemberRequestDto;
 import com.example.SpringSecurity.dto.MemberResponseDto;
 import com.example.SpringSecurity.dto.TokenDto;
 import com.example.SpringSecurity.dto.TokenRequestDto;
+import com.example.SpringSecurity.response.Response;
 import com.example.SpringSecurity.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
